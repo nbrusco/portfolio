@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Nicolas Brusco | Full Stack MERN dev./",
+  title: "Nicolas Brusco | Full Stack MERN dev",
   description: "This is my personal portfolio, enjoy!",
 };
 
